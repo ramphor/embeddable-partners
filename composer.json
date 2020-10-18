@@ -1,0 +1,14 @@
+{
+    "name": "ramphor/embeddable-partners",
+    "description": "Ramphor Partners is a partners management plugin makes can use to embeddable to other plugins, themes",
+    "type": "project",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Ramphor Premium",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
